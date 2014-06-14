@@ -2,7 +2,6 @@
 class HighlineProvider extends Provider
 
   dialogView: new PhoenixT1DialogView
-  reportView: new PhoenixT1ReportView
 
   isActive: ->
     $('body').hasClass 'highline'
