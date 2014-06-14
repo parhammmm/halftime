@@ -1,10 +1,10 @@
 # Halftime - Remove football tweets from your timeline.
 
-The open source browser extension to filter football related tweets.
+An open source browser extension to filter football related tweets.
 
 ## Usage
 
-1. Install the official release from [Chrome Web Store](https://chrome.google.com/webstore/detail/halftime/jadppkpaidfckjkfafggbagpekfepobp) 
+1. Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/halftime/jadppkpaidfckjkfafggbagpekfepobp) 
 1. Refresh your *twitter.com* page.
 
 The tweets are not deleted but just hidden, so you can get them back any time by clicking "Show Football" in twitter's settings menu.
