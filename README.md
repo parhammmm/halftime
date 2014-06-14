@@ -1,6 +1,6 @@
 # Halftime - Remove football tweets from your timeline.
 
-The open source browser extension to world cup related tweets.
+The open source browser extension to filter football related tweets.
 
 ## Usage
 
