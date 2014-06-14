@@ -9,22 +9,8 @@ The open source browser extension to world cup related tweets.
 
 The tweets are not deleted but just hidden, so you can get them back any time by clicking "Show Football" in twitter's settings menu.
 
-## Development
-
-1. Install Node.js, and then the CoffeeScript compiler:
-
-		npm install -g coffee-script
-
-1. Fork and clone the repository, then build the extension:
-
-		cake build
-
-	(To see more commands, just type `cake`.)
-
 ## License
 
-Original code from https://github.com/rstuven/OpenTweetFilter
-
 Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
-Copyright 2014 [Parham Saidi](mailto:parham@parha.me)
-Copyright 2012 [Ricardo Stuven](mailto:rstuven@gmail.com)
+Copyright 2014 [Parham Saidi](http://twitter.com/par_ham) & [Ali Tehrani](http://twitter.com/tehranix)
+Original code from https://github.com/rstuven/OpenTweetFilter by Copyright 2012 [Ricardo Stuven](mailto:rstuven@gmail.com)
