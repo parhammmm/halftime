@@ -1,11 +1,7 @@
-<img src="https://github.com/rstuven/OpenTweetFilter/raw/master/assets/tile.440x280.png">
-
-# Welcome to Open Tweet Filter
+# Half-Time - Remove football tweets from your timeline.
+Original code from https://github.com/rstuven/OpenTweetFilter
 
 The open source browser extension to filter tweets.
-
-If you have a lot of tweets filling your timeline about certain topic or person you are not interested in, this extension is for you.
-Or, as a user put it in a review, "Ahhhh, I no longer have to see intelligent people talk the same hive-minded shite about TV programs". :-)
 
 ## Features:
 - You can filter out tweets by their contents or by their authors.
