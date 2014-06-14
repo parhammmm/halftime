@@ -6,11 +6,8 @@ The open source browser extension to world cup related tweets.
 
 1. Install the official release from [Chrome Web Store](https://chrome.google.com/webstore/detail/halftime/jadppkpaidfckjkfafggbagpekfepobp) 
 1. Refresh your *twitter.com* page.
-2. Turn off by going to the twitter 
 
-Feel free to experiment with the effect of all these settings. The tweets are not deleted but just hidden, so you can get them back any time by disabling the filter or changing the criteria.
-
-*NOTE:* We respect your privacy, so no data is sent to any server. Your filters are processed in your computer and stored in your browser local storage (so **please, use the bookmarklet feature or keep a copy of your filters in a safe place**).
+The tweets are not deleted but just hidden, so you can get them back any time by clicking "Show Football" in twitter's settings menu.
 
 ## Development
 
@@ -26,10 +23,8 @@ Feel free to experiment with the effect of all these settings. The tweets are no
 
 ## License
 
-Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
-
-Copyright 2014 [Parham Saidi](http://twitter.com/par_ham)/[Ali Tehrani](http://twitter.com/tehranix)
-
 Original code from https://github.com/rstuven/OpenTweetFilter
 
+Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
+Copyright 2014 [Parham Saidi](mailto:parham@parha.me)
 Copyright 2012 [Ricardo Stuven](mailto:rstuven@gmail.com)
