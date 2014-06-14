@@ -12,9 +12,6 @@ Feel free to experiment with the effect of all these settings. The tweets are no
 
 *NOTE:* We respect your privacy, so no data is sent to any server. Your filters are processed in your computer and stored in your browser local storage (so **please, use the bookmarklet feature or keep a copy of your filters in a safe place**).
 
-To suggest a feature, report a bug, or general discussion:
-http://github.com/rstuven/OpenTweetFilter/issues/
-
 ## Development
 
 1. Install Node.js, and then the CoffeeScript compiler:
@@ -29,8 +26,10 @@ http://github.com/rstuven/OpenTweetFilter/issues/
 
 ## License
 
+Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
+
+Copyright 2014 [Parham Saidi](http://twitter.com/par_ham)/[Ali Tehrani](http://twitter.com/tehranix)
+
 Original code from https://github.com/rstuven/OpenTweetFilter
 
-Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
-Copyright 2014 [Parham Saidi](mailto:parham@parha.me)
 Copyright 2012 [Ricardo Stuven](mailto:rstuven@gmail.com)
